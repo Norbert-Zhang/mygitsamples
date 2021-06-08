@@ -1,10 +1,5 @@
-1this is a test.
+Git Commands:
+git init
 
-2this is a test2.
 
-3this is a test3.
-
-4this is a test3.
-
-5this is a test3.
 
