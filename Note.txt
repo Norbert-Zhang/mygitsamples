@@ -1,5 +1,16 @@
 Git Commands:
 git init
+git status
+git diff
+git add .
+git commit -m "commit message"
+git log
+
+git branch
+git branch -M main
+git remote add origin https://github.com/Norbert-Zhang/es6.git
+git push -u origin main
 
 
-
+git push
+git pull
