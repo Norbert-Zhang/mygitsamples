@@ -27,4 +27,6 @@ git push -u origin newbranch (create a newbranch in the server)
 git checkout main (change the branch to main)     
 git merge newbranch (merge the newbranch to main)   
 git branch -d newbranch (Deleting local branches)   
-git push origin --delete newbranch (Deleting remote branches)   
+git push origin --delete newbranch (Deleting remote branches)
+
+git checkout -- path/to/folder (Restore a deleted folder)
