@@ -16,6 +16,7 @@ git remote add origin https://github.com/Norbert-Zhang/es6.git (connect the remo
 git push -u origin main (update to server)  
 
 git clone https://github.com/Norbert-Zhang/es6.git (clone a local repository from the server and connect the server)  
+git clone -b releases/v1.3.2.5 https://INDEC-Group@dev.azure.com/INDEC-Group/GOBENCH/_git/GOBENCH (Clone from a branch other than master)
 
 git push (update to server)  
 git pull (get from server)   
